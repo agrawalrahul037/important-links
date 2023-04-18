@@ -7,3 +7,6 @@
 
 ### Promises vs Observables
 [Promises vs Observables](https://www.youtube.com/watch?v=3rbikUwGf9Y&t=9s)
+
+### Npm vs Npx
+[Npm vs Npx](https://www.youtube.com/watch?v=i6CYgaV0YSw)
